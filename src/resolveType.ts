@@ -24,6 +24,10 @@ const stringTypes = new Set([
     'longtext',
     'set',
     'enum',
+    'tinyblob',
+    'blob',
+    'mediumblob',
+    'longblob',
 ])
 const bitTypes = new Set([
     'bit',
