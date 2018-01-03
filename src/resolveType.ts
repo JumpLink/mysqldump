@@ -17,7 +17,7 @@ const stringTypes = new Set([
     'timestamp',
     'time',
     'year',
-    'timestamp',
+    'mediumtext',
     'char',
     'varchar',
     'text',
